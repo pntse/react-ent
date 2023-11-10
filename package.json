@@ -32,7 +32,7 @@
   "dependencies": {
     "@rlean/utils": "^1.0.0",
     "@types/node": "^17.0.34",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "localforage": "^1.7.3",
     "regenerator-runtime": "^0.13.3",
     "zustand": "^4.4.3"
